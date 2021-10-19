@@ -1,5 +1,5 @@
-# robofriends main-development branch
+# Robofriends main-development branch
 
-## This Robofriends version has following changes in comparison to main branch:
+## Current differences to main branch:
 
-1) Modified app style
+#1 Modified app style
