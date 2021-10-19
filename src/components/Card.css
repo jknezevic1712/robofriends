@@ -1,0 +1,7 @@
+.bg-color {
+  background-color: rgb(60, 60, 60);
+}
+
+.bg-color:hover {
+  background-color: #34b15e;
+}
