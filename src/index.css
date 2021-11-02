@@ -19,6 +19,10 @@ body {
   background-blend-mode: multiply, multiply;
 }
 
+body {
+  overflow: hidden;
+}
+
 /* body {
   -webkit-animation: bgcolorchange 8s infinite;
   animation: 8s infinite bgcolorchange;
